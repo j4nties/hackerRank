@@ -19,5 +19,3 @@ grades = sorted(grades, key= float)#sorting grades
 result = sorted(result)#Sorting Names Alphabetically and printing result!
 
 [print(name) for name in result]
-
-
